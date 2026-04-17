@@ -1,0 +1,51 @@
+id_participante,nombre,departamento,curso,fecha_inicio,fecha_fin,estado,nota_final,horas_cursadas,satisfaccion,modalidad
+1,Ana Torres,Ventas,Excel Avanzado,2024-01-08,2024-01-19,Completado,88,20,5,Online
+2,Carlos Méndez,Operaciones,Liderazgo Efectivo,2024-01-08,2024-01-26,Completado,72,30,4,Presencial
+3,María Rojas,RRHH,Excel Avanzado,2024-01-08,2024-01-19,Completado,95,20,5,Online
+4,Pedro Soto,TI,Power BI Básico,2024-01-15,2024-02-02,Completado,80,24,4,Online
+5,Laura Díaz,Finanzas,Excel Avanzado,2024-01-15,2024-01-26,No completado,45,10,2,Online
+6,Jorge Herrera,Ventas,Liderazgo Efectivo,2024-01-15,2024-02-02,Completado,78,30,4,Presencial
+7,Camila Vera,Operaciones,Power BI Básico,2024-01-22,2024-02-09,Completado,91,24,5,Online
+8,Diego Muñoz,RRHH,Liderazgo Efectivo,2024-01-22,2024-02-09,Completado,83,30,5,Presencial
+9,Valentina Pino,Finanzas,Power BI Básico,2024-01-22,2024-02-09,No completado,30,8,2,Online
+10,Andrés Lagos,TI,Excel Avanzado,2024-01-29,2024-02-09,Completado,77,20,4,Online
+11,Francisca Mora,Ventas,Power BI Básico,2024-02-05,2024-02-23,Completado,85,24,5,Online
+12,Sebastián Castro,Operaciones,Excel Avanzado,2024-02-05,2024-02-16,Completado,69,20,3,Online
+13,Isabel Fuentes,RRHH,Power BI Básico,2024-02-05,2024-02-23,Completado,92,24,5,Online
+14,Matías Araya,Finanzas,Liderazgo Efectivo,2024-02-12,2024-03-01,Completado,74,30,4,Presencial
+15,Daniela Riquelme,TI,Liderazgo Efectivo,2024-02-12,2024-03-01,No completado,40,12,2,Presencial
+16,Felipe Contreras,Ventas,Excel Avanzado,2024-02-19,2024-03-01,Completado,81,20,4,Online
+17,Catalina Vega,Operaciones,Liderazgo Efectivo,2024-02-19,2024-03-08,Completado,76,30,4,Presencial
+18,Rodrigo Espinoza,RRHH,Excel Avanzado,2024-02-19,2024-03-01,Completado,88,20,5,Online
+19,Javiera Ortiz,Finanzas,Excel Avanzado,2024-02-26,2024-03-08,Completado,90,20,5,Online
+20,Nicolás Álvarez,TI,Power BI Básico,2024-02-26,2024-03-15,Completado,84,24,4,Online
+21,Paola Jiménez,Ventas,Liderazgo Efectivo,2024-03-04,2024-03-22,No completado,35,9,1,Presencial
+22,Gabriel Silva,Operaciones,Power BI Básico,2024-03-04,2024-03-22,Completado,79,24,4,Online
+23,Marcela Reyes,RRHH,Liderazgo Efectivo,2024-03-04,2024-03-22,Completado,86,30,5,Presencial
+24,Tomás Medina,Finanzas,Power BI Básico,2024-03-11,2024-03-29,Completado,73,24,4,Online
+25,Alejandra Ríos,TI,Excel Avanzado,2024-03-11,2024-03-22,Completado,94,20,5,Online
+26,Bastián Navarro,Ventas,Power BI Básico,2024-03-18,2024-04-05,Completado,82,24,4,Online
+27,Sofía Guerrero,Operaciones,Excel Avanzado,2024-03-18,2024-03-29,No completado,28,6,1,Online
+28,Emilio Carrasco,RRHH,Power BI Básico,2024-03-18,2024-04-05,Completado,87,24,5,Online
+29,Constanza Flores,Finanzas,Liderazgo Efectivo,2024-03-25,2024-04-12,Completado,71,30,3,Presencial
+30,Ignacio Sepúlveda,TI,Liderazgo Efectivo,2024-03-25,2024-04-12,Completado,89,30,5,Presencial
+31,Renata Molina,Ventas,Excel Avanzado,2024-04-01,2024-04-12,Completado,76,20,4,Online
+32,Martín Ibáñez,Operaciones,Liderazgo Efectivo,2024-04-01,2024-04-19,Completado,80,30,4,Presencial
+33,Valentina Cid,RRHH,Excel Avanzado,2024-04-01,2024-04-12,Completado,93,20,5,Online
+34,Hugo Vargas,Finanzas,Excel Avanzado,2024-04-08,2024-04-19,No completado,42,8,2,Online
+35,Lorena Pizarro,TI,Power BI Básico,2024-04-08,2024-04-26,Completado,85,24,5,Online
+36,Cristóbal Donoso,Ventas,Liderazgo Efectivo,2024-04-15,2024-05-03,Completado,77,30,4,Presencial
+37,Amanda Leiva,Operaciones,Power BI Básico,2024-04-15,2024-05-03,Completado,83,24,4,Online
+38,Esteban Poblete,RRHH,Liderazgo Efectivo,2024-04-15,2024-05-03,Completado,91,30,5,Presencial
+39,Pilar Mardones,Finanzas,Power BI Básico,2024-04-22,2024-05-10,Completado,78,24,4,Online
+40,Álvaro Tapia,TI,Excel Avanzado,2024-04-22,2024-05-03,Completado,86,20,5,Online
+41,Josefina Bravo,Ventas,Power BI Básico,2024-04-29,2024-05-17,No completado,33,7,2,Online
+42,Samuel Rojas,Operaciones,Excel Avanzado,2024-04-29,2024-05-10,Completado,74,20,3,Online
+43,Antonia Cáceres,RRHH,Power BI Básico,2024-04-29,2024-05-17,Completado,89,24,5,Online
+44,Maximiliano Ruiz,Finanzas,Liderazgo Efectivo,2024-05-06,2024-05-24,Completado,82,30,4,Presencial
+45,Trinidad Herrera,TI,Liderazgo Efectivo,2024-05-06,2024-05-24,Completado,90,30,5,Presencial
+46,Vicente Morales,Ventas,Excel Avanzado,2024-05-13,2024-05-24,Completado,79,20,4,Online
+47,Fernanda Acuña,Operaciones,Liderazgo Efectivo,2024-05-13,2024-05-31,Completado,85,30,5,Presencial
+48,Cristina Valenzuela,RRHH,Excel Avanzado,2024-05-13,2024-05-24,Completado,96,20,5,Online
+49,Pablo Aravena,Finanzas,Excel Avanzado,2024-05-20,2024-05-31,Completado,81,20,4,Online
+50,Lucía Peña,TI,Power BI Básico,2024-05-20,2024-06-07,Completado,88,24,5,Online
